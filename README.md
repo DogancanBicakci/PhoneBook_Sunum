@@ -23,6 +23,7 @@ Ekran resimlerini aşağıda görebilirsiniz.
 ![image](https://user-images.githubusercontent.com/120460194/221868844-b2b5e6b7-8caa-41c4-8d2d-591b6be09059.png)
 ![image](https://user-images.githubusercontent.com/120460194/221949821-1a49f7b2-4dbc-42ac-9d00-54a4e66febf1.png)
 ![image](https://user-images.githubusercontent.com/120460194/221950190-323f0d29-2037-4b10-8933-c73d00fe008a.png)
+![image](https://user-images.githubusercontent.com/120460194/221955816-b5e9eaa3-9a6f-4587-9e11-2ac68965ce5e.png)
 
 
 
