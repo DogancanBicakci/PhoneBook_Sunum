@@ -1,4 +1,4 @@
-Merhaba, PhoneBook İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptığım süreçte oluşturduk.Bu projedeki amaç üyelik sistemlerini yakınsamaktır.Bu proje ile amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
+Merhaba, PhoneBook İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptığım süreçte oluşturduk. Bu projedeki amaç üyelik sistemlerini yakınsamaktır.Bu proje ile amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
 
 Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
